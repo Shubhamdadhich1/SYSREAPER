@@ -97,7 +97,7 @@ sysreaper/
 Requires [Node.js](https://nodejs.org/) (v18 or later recommended).
 
 ```bash
-git clone https://github.com/<your-username>/<repo-name>.git
+git clone https://github.com/Shubhamdadhich1/SYSREAPER.git
 cd sysreaper
 npm install
 node index.js
