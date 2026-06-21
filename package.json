@@ -1,0 +1,12 @@
+{
+  "name": "sysreaper",
+  "version": "1.0.0",
+  "description": "THUNDER HACKATHON 3.0 — System Reconnaissance & Code-File CRUD Toolkit (educational, non-malicious)",
+  "main": "index.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Kingping",
+  "license": "MIT"
+}
